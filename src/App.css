@@ -1,0 +1,11 @@
+.message-history {
+    height: 256px;
+    overflow-y: scroll;
+    width: 200px;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
